@@ -1,0 +1,32 @@
+[functions.paycrest-rates]
+verify_jwt = false
+
+[functions.paycrest-offramp]
+verify_jwt = false
+
+[functions.paycrest-webhook]
+verify_jwt = false
+
+[functions.elementpay-onramp]
+verify_jwt = false
+
+[functions.elementpay-offramp]
+verify_jwt = false
+
+[functions.elementpay-webhook]
+verify_jwt = false
+
+[functions.elementpay-meta]
+verify_jwt = false
+
+[functions.elementpay-rates]
+verify_jwt = false
+
+[functions.elementpay-order-status]
+verify_jwt = false
+
+[functions.admin-webhook-events]
+verify_jwt = false
+
+[functions.elementpay-limits]
+verify_jwt = false
